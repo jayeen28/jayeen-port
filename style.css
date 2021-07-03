@@ -8,3 +8,23 @@ body{
     font-size: 50px;
     text-transform: capitalize;
 }
+
+.head-desc p {
+    color: #696969;
+}
+
+.head-img img {
+    width: 100%;
+}
+
+.head-flex {
+    display: flex;
+}
+
+section {
+    margin: 0 6%;
+}
+
+.head-desc {
+    margin-right: 10%;
+}
