@@ -3,3 +3,8 @@ body{
     margin: 0;
     padding:0;
 }
+
+.head-desc h1 {
+    font-size: 50px;
+    text-transform: capitalize;
+}
