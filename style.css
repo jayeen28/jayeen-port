@@ -13,10 +13,6 @@ body{
     color: #696969;
 }
 
-.head-img img {
-    width: 100%;
-}
-
 .head-flex {
     display: flex;
 }
