@@ -11,6 +11,7 @@ body{
 
 .head-desc p {
     color: #696969;
+    margin-bottom:20px;
 }
 
 .head-flex {
@@ -23,4 +24,17 @@ section {
 
 .head-desc {
     margin-right: 10%;
+}
+
+.head-desc a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: linear-gradient(
+45deg
+, lightSalmon, tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
 }
