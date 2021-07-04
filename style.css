@@ -19,9 +19,11 @@ body{
     padding-bottom: 20px;
 }
 
+.container{
+    margin:0 6%;
+}
 .head-flex {
     display: flex;
-    margin: 0 6%;
 }
 
 .head-desc {
