@@ -32,12 +32,10 @@ p {
 .head-img img ,.dream-img img {
     width: 100%;
 }
-
 .head-img, .head-desc, .dream-img, .dream-desc, .box {
     width: 47%;
     margin: 11px 3%;
 }
-    
 a {
     text-decoration: none;
     font-size: 16px;
