@@ -59,9 +59,19 @@ a {
 }
 .g-border{
     border-left: 7px solid;
-    border-image-source: linear-gradient(to top,#0000ff, #00E0FF);
+    border-image-source: linear-gradient(to bottom,#0000ff, #00E0FF);
     border-image-slice: 1;
 }
 .n-border{
     border-left:7px solid #FF9470;
+}
+.undertop-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+}
+.afooter-bg{
+    background-image: url(images/exp-bg.png);
+    background-repeat:no-repeat;
+    background-position: left;
 }
